@@ -13,3 +13,11 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
+.pokemons li {
+    margin: 0.2rem;
+    padding: 2rem 1rem;
+    background-color: #14A06F;
+    color: azure;
+    border-radius: 0.5rem;
+    height: 100px;
+}
